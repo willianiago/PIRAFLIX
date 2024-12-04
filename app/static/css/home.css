@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom right, red 50%, navy 50%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 300px;
+    text-align: center;
+    color: white;
+}
+
+.logo img {
+    width: 100%;
+    max-width: 150px;
+    margin-bottom: 30px;
+}

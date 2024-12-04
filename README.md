@@ -1,2 +1,7 @@
-# PIRAFLIX
-Esse repositório é uma nova atualização
+# How to install my project in your computer.
+
+# packages installed
+- teste 
+- teste
+
+## outros 
